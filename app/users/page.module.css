@@ -1,0 +1,16 @@
+.users {
+  margin-top: 10px;
+  padding: 1rem;
+  border: 1px solid #ccc;
+}
+.user {
+  margin-top: 5px;
+  padding: 1rem;
+  border: 1px solid #ccc;
+}
+.usersButton {
+  background: teal;
+  color: #fff;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
